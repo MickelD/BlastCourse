@@ -1,0 +1,4 @@
+repository "BlastCourseV1@mickel_D@cloud"
+  path "/"
+    br "/main"
+    co "/main"
